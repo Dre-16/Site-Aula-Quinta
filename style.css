@@ -1,0 +1,97 @@
+body {
+    background-color: #e2c9a8;
+    margin: 0px;
+}
+
+header {
+    height: 200px;
+    width: 100%;
+    background-color: #bbab97;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+#logo {
+    height: 150px;
+    width: 300px;
+    background-color: #a38f75;
+    margin: 20px 0px 0px 50px;
+    float: left;
+}
+
+nav {
+    width: 300px;
+    height: 100px;
+    background-color: #a79a8b;
+    margin: 50px 50px 0px 0px;
+    float: right;
+}
+
+nav>ul {
+    list-style: none;
+}
+
+nav>ul>li {
+    display: inline;
+    margin: 0px 10px;
+}
+
+section {
+    width: 68%;
+    height: 300px;
+    background-color: #8b8479;
+    margin: 0px 1%;
+    float: left;
+}
+
+.servico {
+    width: 23%;
+    height: 260px;
+    background-color: #9c8c76;
+    float: left;
+    margin: 10px 1%;
+}
+
+aside {
+    width: 28%;
+    height: 1000px;
+    background-color: #a18764;
+    margin: 0px 1%;
+    float: right;
+}
+
+aside>div {
+    width: 94%;
+    background-color: #b8986e;
+    margin: 10px auto;
+}
+
+#rastreio {
+    height: 200px;
+    background-color: #88827a;
+}
+
+#frete {
+    height: 340px;
+    background-color: #837c74;
+}
+
+#cobertura {
+    height: 400px;
+    background-color: #857a6c;
+}
+
+article {
+    width: 68%;
+    height: 700px;
+    background-color: #979087;
+    margin: 0px 1%;
+    float: left;
+}
+
+.conteudo {
+    width: 98%;
+    height: 320px;
+    background-color: #8f877d;
+    margin: 15px auto;
+}
